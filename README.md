@@ -2,14 +2,14 @@
 Fusion Point Pillars is an enhanced version of the classic PointPillars framework, incorporating multi-modal or multi-level feature fusion to significantly improve perception and representation in 3D object detection tasks.
 
 ### Datasets
-Please download the datasets from the following links and place them in the `datasets/kitti` directory:
+To find the datasets, please visit [3D Object Detection Evaluation 2017](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d). Please download the datasets and place them in the `datasets/kitti` directory:
 
 - calib
 - image_2
 - label_2
 - velodyne
 
-`Notice: Only training sets are required for training. The test sets are not needed. All the datasets and tookits can be downloaded from [here](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).`
+`Notice: Only training sets are required for training. The test sets are not needed.`
 
 ### Project Structure
 The project structure is organized as follows:
